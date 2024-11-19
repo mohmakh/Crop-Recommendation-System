@@ -6,7 +6,8 @@ The Crop Recommendation System is a machine-learning-powered solution designed t
 
 ## Features
 
-- Machine Learning-Based Recommendations: Utilizes a Random Forest Classifier with an accuracy of 99.18% to predict the optimal crops.
+- ### Machine Learning-Based Recommendations: 
+Utilizes a Random Forest Classifier with an accuracy of 99.18% to predict the optimal crops.
 
 - Cloud-Based API: Provides scalability and accessibility, enabling farmers to receive recommendations remotely.
 
