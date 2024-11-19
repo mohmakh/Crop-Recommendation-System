@@ -44,14 +44,6 @@ The **Crop Recommendation System** is a machine-learning-powered solution design
 
 ---
 
-## Future Scope
-- **Predictive Analytics**: Incorporate crop yield forecasting.
-- **Disease Prediction**: Extend functionality to identify crop diseases.
-- **IoT Integration**: Support data collection from IoT devices in real-time.
-- **Weather Forecasts**: Use weather predictions to enhance recommendation accuracy.
-
----
-
 ## Getting Started
 ### Prerequisites
 - Python 3.x
@@ -64,3 +56,12 @@ The **Crop Recommendation System** is a machine-learning-powered solution design
 2. Install the necessary Python dependencies using:
    ```bash
    pip install -r requirements.txt
+3. Run the Flask API locally: 
+   ```bash
+   python api.py.
+4. Launch the Android app in Android Studio.
+
+---
+
+## Contributions
+This project was developed as a step toward revolutionizing agriculture by providing farmers with actionable insights and personalized recommendations. It strives to merge cutting-edge technology with grassroots-level usability, ensuring farmers can make informed decisions to maximize productivity.
