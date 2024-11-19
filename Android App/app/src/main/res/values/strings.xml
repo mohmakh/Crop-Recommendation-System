@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Crop Recommendation</string>
+    <string name="humidity">Humidity</string>
+    <string name="ph">Ph</string>
+    <string name="rainfall_in_mm">Rainfall (in mm)</string>
+    <string name="recommend">Predict</string>
+    <string name="rainfall">Rainfall</string>
+    <string name="humidity_in">Humidity (in %)</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperature_in_c">Temperature (in °C)</string>
+    <string name="potassium">Potassium</string>
+    <string name="potassiumm">Potassium</string>
+    <string name="phosphorus">Phosphorus</string>
+    <string name="phosphoruss">Phosphorus</string>
+    <string name="nitrogen">Nitrogen</string>
+    <string name="nitrogenn">Nitrogen</string>
+    <string name="predicted_crop_message">Recommended Crop: %1$s</string>
+    <string name="mystr">\@ All rights are reserved.</string>
+    <string name="crop_recommendation_system">Crop Recommendation System</string>
+
+</resources>
